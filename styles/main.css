@@ -1,0 +1,50 @@
+.main_body {
+	background-color: #000000;
+}
+
+.main_logo img{
+	height: 75%;
+}
+.main_logo h2 {
+	color: white;
+	font: 400 50px/0.8 'Great Vibes', Helvetica, sans-serif;
+  color: #fff;
+  text-shadow: 4px 4px 3px rgba(0,0,0,0.1); 
+}
+.main_logo a {
+	visited: white;
+	text-decoration: none;
+}
+.home_header {
+	height: 50px;
+	width: 100%;
+	background-color: #000000;
+	color: white;
+}
+.home_header img {
+	height: 100%;
+	display: inline-block;
+}
+.home_header h4 {
+	color: white;
+	font: 400 30px/0.8 'Great Vibes', Helvetica, sans-serif;
+  color: #fff;
+  text-shadow: 4px 4px 3px rgba(0,0,0,0.1); 
+  display: inline-block;
+  vertical-align: middle;
+}
+.home_header li {
+	display: inline-block;
+	margin: 10px;
+}
+.home_header ul {
+	margin-top: 15px;
+}
+.home_header a {
+	text-decoration: none;
+	color: white;
+}
+.home_header a:hover {
+	color: #6baed6;
+}
+
